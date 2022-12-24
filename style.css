@@ -1,0 +1,39 @@
+.heading
+{
+    background-color: darkcyan;
+    color: white;
+    top: 0%;
+    line-height: 2;
+    box-shadow: 1px, 1px, 40px, grey;
+    float: top;
+    border-radius: 15px;
+}
+h3
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+p
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#font_size
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.copy_right_footer
+{
+    background: grey;
+    bottom: 0%;
+    width: 100%;
+    position: fixed;
+    line-height: 30px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+canvas
+{
+    border: 5px soid white;
+    border-radius: 20px;
+    box-shadow: 1px 1px, 40px, blue;
+    margin: 130px;
+}
